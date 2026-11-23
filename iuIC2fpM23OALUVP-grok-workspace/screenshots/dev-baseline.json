@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NestInvest",
+      "hasCanvas": false,
+      "bodyTextLen": 550,
+      "bodyTextHash": "094d701088b6b0f84adf978a71a3ace45b300e162d70e884d8304f11dd1f7980",
+      "bodyTextPrefix": "HATCH · HOLD · GROW NestInvest A market nest for live quotes, co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NestInvest",
+      "hasCanvas": false,
+      "bodyTextLen": 544,
+      "bodyTextHash": "90c08534262e3b61ea3580cb96ae23d1d607cb8eca5a25c253192ea8beb01df2",
+      "bodyTextPrefix": "HATCH · HOLD · GROW NestInvest A market nest for live quotes, co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

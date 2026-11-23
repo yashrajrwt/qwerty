@@ -1,0 +1,1 @@
+import{b as e,y as t}from"./index-CJWRKtv6.js";var n=e(),r=()=>(0,n.jsx)(t,{to:`/`});export{r as component};
